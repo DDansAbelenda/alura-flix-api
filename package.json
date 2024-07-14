@@ -1,0 +1,28 @@
+{
+  "name": "alura-flix--api",
+  "version": "1.0.0",
+  "description": "API para Alura Flix construida con JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DDansAbelenda/challenge-one-alura-geek-fake-api.git"
+  },
+  "keywords": [
+    "alura",
+    "alura-geek",
+    "json-server",
+    "javascript",
+    "API",
+    "challenge"
+  ],
+  "author": "DDansAbelenda",
+  "license": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
